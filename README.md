@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Greetings adventurer
 
-<!--
-**realn1/realn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Real a developer from Finland 🇫🇮
 
-Here are some ideas to get you started:
+I’ve been into computers for as long as I can remember, and over time that turned into building and maintaining real-world websites and applications. I enjoy working with modern web technologies, improving user experiences, and turning ideas into something people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I’m focused on growing as a full stack developer, while also working with tools like WordPress in production environments.
+
+---
+
+## 🛠️ Tools I Use
+
+- JavaScript / TypeScript / Python / C++
+
+- React / Node.js
+
+- WordPress (Elementor, WooCommerce)
+
+---
+
+## 🙋 A Bit About Me
+
+- Coffe ☕
+- Even more Coffe ☕
+- Just a little bit more of Coffe ☕
+- I like building things that are simple, useful and easy to understand 💡
